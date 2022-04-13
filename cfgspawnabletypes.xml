@@ -3730,7 +3730,7 @@
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="OrienteeringCompass" chance="1.00" />
+			<item name="Flag_DayZ" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ChernarusMap" chance="1.00" />
@@ -3864,7 +3864,7 @@
 			<item name="CombatKnife" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Deagle" chance="1.00" />
+			<item name="Flag_Pirates" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Mag_Deagle_9rnd" chance="1.00" />
@@ -3894,7 +3894,7 @@
 			<item name="SodaCan_Spite" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AliceBag_Camo" chance="1.00" />
+			<item name="Flag_Wolf" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Battery9V" chance="1.00" />
@@ -3980,7 +3980,7 @@
 			<item name="MediumGasCanister" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PortableGasStove" chance="1.00" />
+			<item name="Flag_Wolf" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="PurificationTablets" chance="1.00" />
@@ -4063,7 +4063,7 @@
 			<item name="OrienteeringCompass" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="ChernarusMap" chance="1.00" />
+			<item name="Flag_Wolf" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="WaterBottle" chance="1.00" />
@@ -4087,10 +4087,10 @@
 			<item name="PetrolLighter" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="MediumGasCanister" chance="1.00" />
+			<item name="CannabisSeedsPack" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PortableGasStove" chance="1.00" />
+			<item name="CannabisSeedsPack" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="PurificationTablets" chance="1.00" />
@@ -4335,7 +4335,7 @@
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="WatchtowerKit" chance="1.00" />
+			<item name="CannabisSeedsPack" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="NailBox" chance="1.00" />
@@ -4383,7 +4383,7 @@
 			<item name="FenceKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="DuctTape" chance="1.00" />
+			<item name="CannabisSeedsPack" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="DuctTape" chance="1.00" />
@@ -4395,10 +4395,10 @@
 			<item name="Whetstone" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CombinationLock4" chance="1.00" />
+			<item name="CannabisSeedsPack" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CombinationLock4" chance="1.00" />
+			<item name="CannabisSeedsPack" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="WorkingGloves_Black" chance="1.00" />
@@ -4440,7 +4440,7 @@
 			<item name="TerritoryFlagKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Flag_Altis" chance="1.00" />
+			<item name="Flag_Wolf" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Flag_APA" chance="1.00" />
@@ -4476,16 +4476,16 @@
 			<item name="CarTent" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Tripod" chance="1.00" />
+			<item name="CannabisSeedsPack" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PowerGenerator" chance="1.00" />
+			<item name="Refrigerator" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Spotlight" chance="1.00" />
+			<item name="CannabisSeedsPack" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CableReel" chance="1.00" />
+			<item name="Sword" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="SparkPlug" chance="1.00" />
