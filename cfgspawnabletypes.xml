@@ -2600,34 +2600,6 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-												
-												
-											   
-											  
-											   
-											  
-											  
-		  
 	</type>
 	<type name="GiftBox_Small_2">
 		<cargo preset="Xmas_Clothes_Small" />
@@ -2640,34 +2612,6 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-												
-												
-											   
-											  
-											   
-											  
-											  
-		  
 	</type>
 	<type name="GiftBox_Small_3">
 		<cargo preset="Xmas_Clothes_Small" />
@@ -2680,34 +2624,6 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-												
-												
-											   
-											  
-											   
-											  
-											  
-		  
 	</type>
 	<type name="GiftBox_Small_4">
 		<cargo preset="Xmas_Clothes_Small" />
@@ -2720,34 +2636,6 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-												
-												
-											   
-											  
-											   
-											  
-											  
-		  
 	</type>
 	<type name="GiftBox_Medium_1">
 		<cargo preset="Xmas_Clothes_Medium" />
@@ -2766,44 +2654,6 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-													
-		  
-					   
-													 
-													   
-												  
-												   
-													
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-											   
-											  
-												
-												
-											   
-											  
-											   
-											  
-											  
-		  
 	</type>
 	<type name="GiftBox_Medium_2">
 		<cargo preset="Xmas_Clothes_Medium" />
@@ -2822,44 +2672,6 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-													
-		  
-					   
-													 
-													   
-												  
-												   
-													
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-											   
-											  
-												
-												
-											   
-											  
-											   
-											  
-											  
-		  
 	</type>
 	<type name="GiftBox_Medium_3">
 		<cargo preset="Xmas_Clothes_Medium" />
@@ -2878,44 +2690,6 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-													
-		  
-					   
-													 
-													   
-												  
-												   
-													
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-											   
-											  
-												
-												
-											   
-											  
-											   
-											  
-											  
-		  
 	</type>
 	<type name="GiftBox_Medium_4">
 		<cargo preset="Xmas_Clothes_Medium" />
@@ -2934,44 +2708,6 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-													
-		  
-					   
-													 
-													   
-												  
-												   
-													
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-											   
-											  
-												
-												
-											   
-											  
-											   
-											  
-											  
-		  
 	</type>
 	<type name="GiftBox_Large_1">
 		<cargo preset="Xmas_Mags_Large" />
@@ -2992,55 +2728,6 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-										 
-										   
-													
-		  
-					   
-													 
-													   
-												  
-												   
-													
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-											   
-											  
-												
-												
-											   
-											  
-											   
-											  
-											  
-											   
-											   
-											   
-											   
-		  
-					   
-													
-														
-												  
-		  
 	</type>
 	<type name="GiftBox_Large_2">
 		<cargo preset="Xmas_Mags_Large" />
@@ -3061,55 +2748,6 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-										 
-										   
-													
-		  
-					   
-													 
-													   
-												  
-												   
-													
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-											   
-											  
-												
-												
-											   
-											  
-											   
-											  
-											  
-											   
-											   
-											   
-											   
-		  
-					   
-													
-														
-												  
-		  
 	</type>
 	<type name="GiftBox_Large_3">
 		<cargo preset="Xmas_Mags_Large" />
@@ -3130,55 +2768,6 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-										 
-										   
-													
-		  
-					   
-													 
-													   
-												  
-												   
-													
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-											   
-											  
-												
-												
-											   
-											  
-											   
-											  
-											  
-											   
-											   
-											   
-											   
-		  
-					   
-													
-														
-												  
-		  
 	</type>
 	<type name="GiftBox_Large_4">
 		<cargo preset="Xmas_Mags_Large" />
@@ -3199,55 +2788,6 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-										 
-										   
-													
-		  
-					   
-													 
-													   
-												  
-												   
-													
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-											   
-											  
-												
-												
-											   
-											  
-											   
-											  
-											  
-											   
-											   
-											   
-											   
-		  
-					   
-													
-														
-												  
-		  
 	</type>
 	<!-- VEHICLES -->
 	<type name="OffroadHatchback">
@@ -3297,7 +2837,7 @@
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AliceBag_Camo" chance="1.00" />
+			<item name="Canteen" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="M4A1" chance="1.00" />
@@ -3336,31 +2876,25 @@
 			<item name="WeaponCleaningKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CombatKnife" chance="1.00" />
+			<item name="Camonet" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Deagle" chance="1.00" />
+			<item name="Bonfire" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Mag_Deagle_9rnd" chance="1.00" />
+			<item name="BarbedWire" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Mag_Deagle_9rnd" chance="1.00" />
+			<item name="BarbedWire" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PistolSuppressor" chance="1.00" />
+			<item name="Camonet" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PistolSuppressor" chance="1.00" />
+			<item name="Camonet" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AmmoBox_357_20Rnd" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AmmoBox_357_20Rnd" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="PistolOptic" chance="1.00" />
+			<item name="Camonet" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="TacticalBaconCan" chance="1.00" />
@@ -3419,7 +2953,7 @@
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AliceBag_Camo" chance="1.00" />
+			<item name="Canteen" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="M4A1" chance="1.00" />
@@ -3461,13 +2995,13 @@
 			<item name="CombatKnife" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Deagle" chance="1.00" />
+			<item name="DallasMask" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Mag_Deagle_9rnd" chance="1.00" />
+			<item name="Flag_Pirates" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Mag_Deagle_9rnd" chance="1.00" />
+			<item name="Flag_Wolf" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="PistolSuppressor" chance="1.00" />
@@ -3541,7 +3075,7 @@
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AliceBag_Camo" chance="1.00" />
+			<item name="Flag_Wolf" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="M4A1" chance="1.00" />
@@ -3694,10 +3228,10 @@
 			<item name="CombatKnife" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Deagle" chance="1.00" />
+			<item name="Flag_Wolf" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Mag_Deagle_9rnd" chance="1.00" />
+			<item name="Flag_Wolf" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Mag_Deagle_9rnd" chance="1.00" />
@@ -4223,10 +3757,10 @@
 			<item name="PetrolLighter" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="MediumGasCanister" chance="1.00" />
+			<item name="TerritoryFlagKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PortableGasStove" chance="1.00" />
+			<item name="TerritoryFlag" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="PurificationTablets" chance="1.00" />
