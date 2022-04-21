@@ -18608,10 +18608,10 @@
         <usage name="Village" />
     </type>
     <type name="CannabisSeedsPack">
-        <nominal>20</nominal>
+        <nominal>100</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>90</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18620,10 +18620,10 @@
         <usage name="Farm" />
    </type>
    <type name="CigarettePack_Chernamorka">
-          <nominal>20</nominal>
+          <nominal>100</nominal>
           <lifetime>2700</lifetime>
           <restock>0</restock>
-          <min>10</min>
+          <min>90</min>
           <quantmin>-1</quantmin>
           <quantmax>-1</quantmax>
           <cost>100</cost>
@@ -18634,10 +18634,10 @@
           <usage name="Village" />
     </type>
     <type name="CigarettePack_Merkur">
-          <nominal>20</nominal>
+          <nominal>100</nominal>
           <lifetime>2700</lifetime>
           <restock>0</restock>
-          <min>10</min>
+          <min>90</min>
           <quantmin>-1</quantmin>
           <quantmax>-1</quantmax>
           <cost>100</cost>
@@ -18648,10 +18648,10 @@
           <usage name="Village" />
     </type>
     <type name="CigarettePack_Partyzanka">
-          <nominal>20</nominal>
+          <nominal>100</nominal>
           <lifetime>2700</lifetime>
           <restock>0</restock>
-          <min>10</min>
+          <min>90</min>
           <quantmin>-1</quantmin>
           <quantmax>-1</quantmax>
           <cost>100</cost>
